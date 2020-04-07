@@ -15,6 +15,7 @@
 		1D9AB3F1243BFDF200AB2FFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D9AB3EF243BFDF200AB2FFA /* LaunchScreen.storyboard */; };
 		1D9AB3FC243BFDF200AB2FFA /* ToDoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9AB3FB243BFDF200AB2FFA /* ToDoAppTests.swift */; };
 		1D9AB407243BFDF200AB2FFA /* ToDoAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9AB406243BFDF200AB2FFA /* ToDoAppUITests.swift */; };
+		1D9AB41B243C010100AB2FFA /* TaskFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9AB41A243C010100AB2FFA /* TaskFiles.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1D9AB402243BFDF200AB2FFA /* ToDoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDoAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D9AB406243BFDF200AB2FFA /* ToDoAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoAppUITests.swift; sourceTree = "<group>"; };
 		1D9AB408243BFDF200AB2FFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D9AB41A243C010100AB2FFA /* TaskFiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskFiles.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				1D9AB3E4243BFDEF00AB2FFA /* AppDelegate.swift */,
 				1D9AB3E6243BFDEF00AB2FFA /* SceneDelegate.swift */,
 				1D9AB3E8243BFDEF00AB2FFA /* ContentView.swift */,
+				1D9AB41A243C010100AB2FFA /* TaskFiles.swift */,
 				1D9AB3EA243BFDF200AB2FFA /* Assets.xcassets */,
 				1D9AB3EF243BFDF200AB2FFA /* LaunchScreen.storyboard */,
 				1D9AB3F2243BFDF200AB2FFA /* Info.plist */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D9AB3E5243BFDEF00AB2FFA /* AppDelegate.swift in Sources */,
+				1D9AB41B243C010100AB2FFA /* TaskFiles.swift in Sources */,
 				1D9AB3E7243BFDEF00AB2FFA /* SceneDelegate.swift in Sources */,
 				1D9AB3E9243BFDEF00AB2FFA /* ContentView.swift in Sources */,
 			);
